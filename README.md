@@ -1,2 +1,2 @@
 # llumWebsite
-Landing page para un proyecto de artesanía y manualidades. 
+Landing page para el proyecto de artesanía y manualidades de Llum Hernández. 
